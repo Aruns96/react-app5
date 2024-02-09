@@ -17,6 +17,7 @@
   
   .actions {
     text-align: right;
+    display: inline-flex;
   }
   
   .actions button {
